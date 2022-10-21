@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
 
+## Summary
+
+There are 5 different ways as I known to share data in Angular, which I bring into each of the 3 components (Parent, Child and Sibling)
+Besides that I bring a route configuration to train and practice my knowlege
+
+### Hope everybody enjoy!!
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
